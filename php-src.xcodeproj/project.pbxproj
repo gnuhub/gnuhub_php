@@ -7,14 +7,14 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		35DA66EF18F0EB5E006B738C /* php-5.4.27 */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "php-5.4.27"; path = "../../../dev/php-5.4.27"; sourceTree = "<group>"; };
+		35032756191A69CC002872CD /* php-5.4.27 */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "php-5.4.27"; path = "../../../../dev/php-5.4.27"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		35DA66E418F0EA5C006B738C = {
 			isa = PBXGroup;
 			children = (
-				35DA66EF18F0EB5E006B738C /* php-5.4.27 */,
+				35032756191A69CC002872CD /* php-5.4.27 */,
 			);
 			sourceTree = "<group>";
 		};
@@ -171,6 +171,7 @@
 				35DA66EE18F0EA5C006B738C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
